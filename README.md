@@ -1,2 +1,2 @@
 # mahiru_shiina
-Exercise of Machine Learning from Dicoding
+Membangun Proyek Machine Learning
